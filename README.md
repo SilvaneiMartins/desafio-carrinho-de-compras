@@ -15,7 +15,7 @@ Dando um upgrade nos meus estudos na linguagem typescript e criando hooks, foram
 <h4 align="left">
   Video do desafio carrinho de compra.
 </h4>
-https://youtu.be/<https://youtu.be/_TVi6Dv9cXY>
+<iframe class="imgur-embed" width="100%" height="388" frameborder="0" src="https://i.imgur.com/SQRGIC0.gifv#embed"></iframe>
 
 <h4 align="left">
   Imagen do desafio carrinho de compra.
