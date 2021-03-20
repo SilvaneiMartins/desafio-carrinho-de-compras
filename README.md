@@ -15,7 +15,7 @@ Dando um upgrade nos meus estudos na linguagem typescript e criando hooks, foram
 <h4 align="left">
   Video do desafio carrinho de compra.
 </h4>
-[Apresentação do desafio](https://i.imgur.com/SQRGIC0.mp4)
+-  [Apresentação do desafio](https://youtu.be/_TVi6Dv9cXY)
 
 <h4 align="left">
   Imagen do desafio carrinho de compra.
