@@ -13,11 +13,6 @@ Dando um upgrade nos meus estudos na linguagem typescript e criando hooks, foram
 </p>
 
 <h4 align="left">
-  Video do desafio carrinho de compra.
-</h4>
-[![Apresentação do Projeto](https://i9.ytimg.com/vi/_TVi6Dv9cXY/mqdefault.jpg?time=1616275800000&sqp=CNjS2YIG&rs=AOn4CLDsvv_JYmavpv5sqd99PV1UsPRJyw)](http://www.youtube.com/watch?v=https://youtu.be/_TVi6Dv9cXY)
-
-<h4 align="left">
   Imagen do desafio carrinho de compra.
 </h4>
 <a href="https://imgur.com/VF62IYW"><img src="https://i.imgur.com/VF62IYW.png" title="source: imgur.com" /></a>
