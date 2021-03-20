@@ -13,9 +13,13 @@ Dando um upgrade nos meus estudos na linguagem typescript e criando hooks, foram
 </p>
 
 <h4 align="left">
-  Imagen do Carrinho de Compra.
+  Video do desafio carrinho de compra.
 </h4>
+[![Watch the video](https://youtu.be/_TVi6Dv9cXY)
 
+<h4 align="left">
+  Imagen do desafio carrinho de compra.
+</h4>
 <a href="https://imgur.com/VF62IYW"><img src="https://i.imgur.com/VF62IYW.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/iSQsxHZ"><img src="https://i.imgur.com/iSQsxHZ.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/jAeeOfR"><img src="https://i.imgur.com/jAeeOfR.png" title="source: imgur.com" /></a>
