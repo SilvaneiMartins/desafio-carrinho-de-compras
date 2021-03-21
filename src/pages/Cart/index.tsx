@@ -34,26 +34,23 @@ const Cart = (): JSX.Element => {
     }));
 
     const total = formatPrice(
-        cartFormatted.reduce((sumTotal, product) => {
-            sumTotal += product.price * product.amount;
-            return sumTotal;
+        cart.reduce((sumTotal, product) => {
+            return (sumTotal += product.price);
         }, 0)
     );
 
     function handleProductIncrement(product: Product) {
-        const IncrementArguments = {
+        updateProductAmount({
             productId: product.id,
             amount: product.amount + 1,
-        };
-        updateProductAmount(IncrementArguments);
+        });
     }
 
     function handleProductDecrement(product: Product) {
-        const IncrementArguments = {
+        updateProductAmount({
             productId: product.id,
             amount: product.amount - 1,
-        };
-        updateProductAmount(IncrementArguments);
+        });
     }
 
     function handleRemoveProduct(productId: number) {
@@ -88,7 +85,9 @@ const Cart = (): JSX.Element => {
                                         type="button"
                                         data-testid="decrement-product"
                                         disabled={product.amount <= 1}
-                                        onClick={() => handleProductDecrement(product)}
+                                        onClick={() =>
+                                            handleProductDecrement(product)
+                                        }
                                     >
                                         <MdRemoveCircleOutline size={20} />
                                     </button>
@@ -101,7 +100,9 @@ const Cart = (): JSX.Element => {
                                     <button
                                         type="button"
                                         data-testid="increment-product"
-                                        onClick={() => handleProductIncrement(product)}
+                                        onClick={() =>
+                                            handleProductIncrement(product)
+                                        }
                                     >
                                         <MdAddCircleOutline size={20} />
                                     </button>

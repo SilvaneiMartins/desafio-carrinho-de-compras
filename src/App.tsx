@@ -5,12 +5,13 @@
  *   Frase: Estamos em constante mudança no aprendizado;
  *   Assinatura: Silvanei Martins;
  */
+import React from 'react';
 import { BrowserRouter } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 
 import Routes from "./routes";
 import GlobalStyles from "./styles/global";
-import Header from "./components/Header";
+import Header from "../src/components/Header";
 import { CartProvider } from "./hooks/useCart";
 
 const App = (): JSX.Element => {

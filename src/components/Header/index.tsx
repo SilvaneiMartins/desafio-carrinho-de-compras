@@ -5,7 +5,6 @@
  *   Frase: Estamos em constante mudança no aprendizado;
  *   Assinatura: Silvanei Martins;
  */
-import React from "react";
 import { Link } from "react-router-dom";
 import { MdShoppingBasket } from "react-icons/md";
 
